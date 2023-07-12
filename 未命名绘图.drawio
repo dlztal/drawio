@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-09-03T02:01:06.998Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" version="15.0.6" etag="mnsxljInBsz9mutgV-o3" type="github"><diagram id="Tc3KBoKHG2TYna7M2KjC">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-07-12T02:50:53.190Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="20.8.3" etag="vWSjHTtrZz3bj-lekYcK" type="github">
+  <diagram id="rG2bPAzRM2uypR8tDuPK" name="第 1 页">
+    <mxGraphModel dx="1306" dy="811" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QwRjlPLp69RYTndlWx4V-12" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="220" y="207" width="120" height="218" as="geometry" />
+        </mxCell>
+        <mxCell id="QwRjlPLp69RYTndlWx4V-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QwRjlPLp69RYTndlWx4V-2" target="QwRjlPLp69RYTndlWx4V-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QwRjlPLp69RYTndlWx4V-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332" y="59" width="94" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="QwRjlPLp69RYTndlWx4V-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QwRjlPLp69RYTndlWx4V-3" target="QwRjlPLp69RYTndlWx4V-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QwRjlPLp69RYTndlWx4V-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QwRjlPLp69RYTndlWx4V-3" target="QwRjlPLp69RYTndlWx4V-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QwRjlPLp69RYTndlWx4V-3" value="老师发起连麦" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332" y="131" width="94" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="QwRjlPLp69RYTndlWx4V-7" value="viideo_mic_notice" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="220" width="110" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="QwRjlPLp69RYTndlWx4V-8" value="video_mic&lt;br&gt;video_mic_f" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="426" y="220" width="110" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="QwRjlPLp69RYTndlWx4V-14" value="&lt;div&gt;&lt;font color=&quot;#b5739d&quot;&gt;type:125,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#b5739d&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#b5739d&quot;&gt;&quot;status:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#b5739d&quot;&gt;{&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#b5739d&quot;&gt;&amp;nbsp; 1:开始连麦&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#b5739d&quot;&gt;&amp;nbsp; 2:关闭连麦&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#b5739d&quot;&gt;&amp;nbsp; 4:选中上麦学生&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#b5739d&quot;&gt;&amp;nbsp; 8:老师离开直播间&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#b5739d&quot;&gt;}&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="225" y="257" width="107" height="154" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
